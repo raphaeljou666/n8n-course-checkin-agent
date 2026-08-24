@@ -4,9 +4,7 @@
 
 ## Demo
 
-![Demo](docs/screenshots/chat-demo.gif)
-
-實測影片:[docs/video/n8n-demo.mp4](docs/video/n8n-demo.mp4)
+實測影片:([docs/video/n8n-demo.mp4](https://drive.google.com/file/d/1w9h7DoZUicDv1eBI-21LZ-QBfwlVD99E/view?usp=sharing))
 
 ## 亮點
 
