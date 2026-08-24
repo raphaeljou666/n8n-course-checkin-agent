@@ -63,7 +63,7 @@ Error Trigger workflow 監聽到系統錯誤時,會自動寄信通知,同時 Cha
 
 學員資料查無或驗證失敗達上限時,系統會寄信通知工作人員協助處理。
 
-![報到異常通知信](/home/rapubuntu/n8n-course-checkin-agent/docs/screenshots/error-checkin.png)
+![報到異常通知信](docs/screenshots/error-checkin.png)
 
 ## 未來優化方向
 
