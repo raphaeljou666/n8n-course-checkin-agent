@@ -109,6 +109,7 @@ Error Trigger workflow 監聽到系統錯誤時,會自動寄信通知,同時 Cha
 - 把 Google Sheets 換成正式資料庫,應付更大量的報名資料
 - LINE 主動推播:報到成功後主動 push 教室位置、注意事項給學員(現在只在對話裡回覆)
 - 支援 LINE Flex Message 富訊息格式,把報到結果做成卡片而不是純文字
+- 報到時多記一欄來源平台(網頁聊天室或 LINE),方便之後統計哪個管道用的人多
 
 ## License
 
