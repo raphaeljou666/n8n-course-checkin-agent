@@ -24,3 +24,6 @@ node_modules/
 
 # log 檔
 *.log
+
+# 本機工具設定,不進版控
+SKILL.md
